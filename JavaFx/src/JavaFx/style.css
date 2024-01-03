@@ -1,0 +1,41 @@
+/* style.css */
+
+/* Apply styles to the entire scene */
+
+.root {
+    -fx-background-color: #f4f4f4;
+}
+
+/* Style for the title label */
+#titleLabel {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+/* Style for buttons */
+.button {
+    -fx-font-size: 14;
+    -fx-padding: 10 20;
+}
+
+/* Style for specific buttons */
+#addExpenseButton {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+#viewExpensesButton {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+}
+
+#calculateTotalExpenseButton {
+    -fx-background-color: #FF9800;
+    -fx-text-fill: white;
+}
+
+#exitButton {
+    -fx-background-color: #e53935;
+    -fx-text-fill: white;
+}
+
