@@ -2,7 +2,8 @@
 ## 🚀 About Me
 Aspiring Full Stack Java Developer | Proficient in Java, SQL, MySQL | Eager to Launch Software Development Career.
 
-**Expense Calculator**
+**Expense Tracker**
+
 An expense tracker is a tool or application designed to help individuals or businesses monitor, manage, and analyze their financial expenditures. The primary purpose of an expense tracker is to provide a systematic way to record, categorize, and evaluate various types of expenses incurred over a specific period. Users can gain valuable insights into their spending patterns, identify areas for potential cost savings, and maintain better control over their financial health.
 
 **Tools Used**
